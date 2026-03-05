@@ -8,6 +8,7 @@ import vueSetupExtend from 'vite-plugin-vue-setup-extend'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: './',
   server: {
     host: '0.0.0.0',
     port: 3008,

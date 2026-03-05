@@ -64,7 +64,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/node-workflow/'),
   routes
 });
 

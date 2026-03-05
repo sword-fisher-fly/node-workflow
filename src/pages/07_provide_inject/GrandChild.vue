@@ -10,7 +10,7 @@
 
 import {inject} from 'vue'
 
-let {money, updateMoney} = inject('moneyContext', {money: 0, updateMoney: (val:number) => {}})
+let {money, updateMoney} = inject('moneyContext', {money: 0, updateMoney: (val:number) => { return val}})
 
 let car = inject('car', {
     brand: 'unknown',

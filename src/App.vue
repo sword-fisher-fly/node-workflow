@@ -11,8 +11,8 @@
         <RouterLink to = "/attrs" active-class="active" class="list-group-item">5. $attrs</RouterLink>
         <RouterLink to = "/refs-parent" active-class="active" class="list-group-item">6. $refs-$parent</RouterLink>
         <RouterLink to = "/provide-inject" active-class="active" class="list-group-item">7. provide-inject</RouterLink>
-        <RouterLink to = "/slot" active-class="active" class="list-group-item">8. slot</RouterLink>
-        <RouterLink to = "/slot-scope" active-class="active" class="list-group-item">8. slot-scope </RouterLink>
+        <RouterLink to = "/slot" active-class="active" class="list-group-item">8.1 slot</RouterLink>
+        <RouterLink to = "/slot-scope" active-class="active" class="list-group-item">8.2 slot-scope </RouterLink>
 
       </div>
       <!-- 展示区 -->

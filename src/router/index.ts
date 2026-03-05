@@ -8,7 +8,7 @@ import Attrs from '@/pages/05_$attrs/Parent.vue'
 import RefsParent from '@/pages/06_$refs_$parents/Parent.vue'
 import ProvideInject from '@/pages/07_provide_inject/Parent.vue'
 import Slot from '@/pages/08_slot/Parent.vue'
-import SlotScope from '@/pages/08_slot_scope/Parent.vue'
+import SlotScope from '@/pages/09_slot_scope/Parent.vue'
 
 const routes = [
   {
